@@ -1,5 +1,5 @@
 # BotDLG
-Algo pour analyse des marchés financiers
+Algorythm for financial data analysis
 
 
 How to run a test ?
